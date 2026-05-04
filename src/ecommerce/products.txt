@@ -1,0 +1,2 @@
+1|Laptop|Gaming|1200.00|5|Electronics
+2|Phone|Smart|720.000|10|Electronics

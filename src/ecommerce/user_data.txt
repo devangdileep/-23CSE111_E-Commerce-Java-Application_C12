@@ -1,0 +1,1 @@
+1|Student|student@amrita.edu|CUSTOMER|123 Amrita St, Coimbatore, TN - 641112, India

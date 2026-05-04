@@ -1,0 +1,3 @@
+App Started
+App Started
+Order placed: Rs. 1200.00
